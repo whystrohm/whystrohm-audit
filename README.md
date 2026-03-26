@@ -9,6 +9,10 @@
 
 Your content gets a score out of 50. You see exactly what's broken and why. Then one piece gets rewritten live — layer by layer — so you experience the difference, not just read about it.
 
+<p align="center">
+  <img src="demo.gif" alt="WhyStrohm Audit Demo" width="720">
+</p>
+
 ---
 
 ## How It Works
