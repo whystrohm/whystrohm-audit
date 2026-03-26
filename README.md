@@ -1,5 +1,10 @@
 # WhyStrohm Content Infrastructure Audit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-7C3AED)](https://claude.ai/code)
+[![Version](https://img.shields.io/github/v/release/whystrohm/whystrohm-audit)](https://github.com/whystrohm/whystrohm-audit/releases)
+[![whystrohm.com](https://img.shields.io/badge/WhyStrohm-whystrohm.com-00D4FF)](https://whystrohm.com)
+
 **A free Claude Code skill that scores your content against the same 5-layer framework used to build content infrastructure for founder-led companies.**
 
 Your content gets a score out of 50. You see exactly what's broken and why. Then one piece gets rewritten live — layer by layer — so you experience the difference, not just read about it.
@@ -93,6 +98,7 @@ Followed by:
 ```
 whystrohm-audit/
 ├── SKILL.md                  # Orchestrator — controls the two-phase flow
+├── CLAUDE.md                 # Contributor guide for AI agents
 ├── rules/
 │   ├── scoring-rubric.md     # The 5-layer framework with scoring criteria
 │   ├── voice-analysis.md     # How brand voice is inferred from your website
@@ -100,7 +106,11 @@ whystrohm-audit/
 ├── templates/
 │   ├── audit-report.md       # Output formatting (score display, breakdowns)
 │   └── cta.md                # Closing pitch (configurable booking link)
-├── LICENSE
+├── .github/                  # Issue templates, PR template, CODEOWNERS
+├── CHANGELOG.md              # Version history
+├── CONTRIBUTING.md            # How to contribute
+├── SECURITY.md               # Security policy
+├── LICENSE                   # MIT
 └── README.md
 ```
 

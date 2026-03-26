@@ -1,0 +1,57 @@
+name: Bug Report
+description: The skill produced unexpected output or broke during the audit
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: claude-version
+    attributes:
+      label: Claude Code version
+      description: Run `claude --version` in your terminal
+      placeholder: "e.g., 2.1.84"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - macOS
+        - Windows
+        - Linux
+    validations:
+      required: true
+  - type: dropdown
+    id: step
+    attributes:
+      label: Which step broke?
+      options:
+        - URL scrape (Step 1-2)
+        - Questions (Step 3-4)
+        - Scoring (Step 5)
+        - Report display (Step 6)
+        - Rewrite (Step 7-8)
+        - Before/After display (Step 9)
+        - CTA (Step 10)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the unexpected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should have happened?
+    validations:
+      required: true
+  - type: textarea
+    id: content-sample
+    attributes:
+      label: Content sample (if relevant)
+      description: Paste the content you were auditing, or a sanitized version
+      render: text
