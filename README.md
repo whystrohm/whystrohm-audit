@@ -129,7 +129,7 @@ A full content infrastructure install scores your **entire library**, maps voice
 **What the full system includes:**
 - Brand voice encoded as 40-60 enforceable rules (not a PDF)
 - Content guardrails that reject hype and require proof before publish
-- Video production pipeline (Remotion + FFmpeg + TTS)
+- Video production pipeline that renders branded content from code
 - Multi-platform posting automation
 - Templates, calendars, and a content engine your team owns completely
 
