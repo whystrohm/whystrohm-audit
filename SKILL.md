@@ -128,3 +128,8 @@ Then read `templates/cta.md` and display the closing pitch.
 - **No emojis.** Ever.
 - **No hype in the audit itself.** The skill must practice what it preaches — proof-dense, specific, zero hollow language.
 - **Don't apologize or soften.** The audit is honest. "Your content scored 14/50" not "Your content has some room for improvement."
+
+## Related Skills
+
+- **[Digital Twin](https://github.com/whystrohm/digital-twin-of-yourself)** — Extract your voice into a reusable AI System Prompt before auditing. Includes a [10-dimension scoring rubric](https://github.com/whystrohm/digital-twin-of-yourself/blob/main/validation/RUBRIC.md) and [15 stress tests](https://github.com/whystrohm/digital-twin-of-yourself/blob/main/validation/STRESS_TESTS.md) for validating the extraction.
+- **Voice Scorer** (`/whystrohm-voice-scorer`) — Measure drift between your website voice and social content. Runs one layer of what this audit covers across all five.
