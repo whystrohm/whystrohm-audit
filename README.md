@@ -133,17 +133,17 @@ A full content infrastructure install scores your **entire library**, maps voice
 - Multi-platform posting automation
 - Templates, calendars, and a content engine your team owns completely
 
-**30-day build. You own everything. No retainer. No lock-in.**
+**Starting at $3,000/month. One operator. Full stack. 30 minutes of your time per week. You own everything I build.**
 
-Book your content infrastructure diagnostic — 30 minutes, no pitch, just more of what you experienced here:
+Score your content first — 10 seconds, no email, no pitch:
 
-**https://whystrohm.com/audit**
+**[whystrohm.com/scan](https://whystrohm.com/scan)**
 
 ---
 
 ## About WhyStrohm
 
-[WhyStrohm](https://whystrohm.com) builds content infrastructure for founder-led companies doing $500K-$5M. One person. 10+ years in defense systems engineering. No templates. No outsourcing. Systems that run your brand — built and handed over.
+[WhyStrohm](https://whystrohm.com) is the creative engine for founder-led companies doing $100K+. One person. 10+ years in defense systems engineering. No templates. No outsourcing. Systems that run your brand — built, run, and owned by you.
 
 ## License
 
