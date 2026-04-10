@@ -12,3 +12,6 @@ Thumbs.db
 # Temp files
 *.tmp
 *.log
+
+# Internal strategy docs (kept local, not committed)
+DISTRIBUTION.md
