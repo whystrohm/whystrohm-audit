@@ -145,6 +145,19 @@ Score your content first — 10 seconds, no email, no pitch:
 
 [WhyStrohm](https://whystrohm.com) is the creative engine for founder-led companies doing $100K+. One person. 10+ years in defense systems engineering. No templates. No outsourcing. Systems that run your brand — built, run, and owned by you.
 
+## Other WhyStrohm Skills
+
+| Skill | What It Does | Install |
+|-------|-------------|---------|
+| [Digital Twin](https://github.com/whystrohm/digital-twin-of-yourself) | Reverse-engineer how you think and talk. Stress-tested AI System Prompt of yourself. | `git clone https://github.com/whystrohm/digital-twin-of-yourself.git ~/.claude/skills/digital-twin` |
+| [Voice Scorer](https://github.com/whystrohm/whystrohm-voice-scorer) | Measure voice drift between your website and social content. | `git clone https://github.com/whystrohm/whystrohm-voice-scorer.git ~/.claude/skills/whystrohm-voice-scorer` |
+
+## Brand Infrastructure Consulting
+
+This skill is one piece of the brand infrastructure I build for founder-led brands. Voice extraction, programmatic video, automated publishing. One operator, full stack. You own everything.
+
+→ [whystrohm.com/pricing](https://whystrohm.com/pricing?utm_source=github&utm_medium=repo-cta&utm_campaign=2026-04-10-closed-loop)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
