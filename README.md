@@ -137,7 +137,7 @@ A full content infrastructure install scores your **entire library**, maps voice
 
 Score your content first — 10 seconds, no email, no pitch:
 
-**[whystrohm.com/scan](https://whystrohm.com/scan)**
+**[whystrohm.com/scan](https://whystrohm.com/scan?utm_source=github&utm_medium=repo-cta&utm_campaign=2026-04-10-closed-loop)**
 
 ---
 
